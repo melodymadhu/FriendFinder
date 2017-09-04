@@ -1,6 +1,6 @@
 //Npm package dependencies that are used in the application
 var express = require('express');
-var bodyParser = require('body-Parser');
+var bodyParser = require('body-parser');
 var path = require('path');
 
 //Setting up server using express
